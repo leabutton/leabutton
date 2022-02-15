@@ -2,6 +2,9 @@
 
 <p>I'm a 1st year Computer Science student at the <a href="https://www.sheffield.ac.uk">University of Sheffield</a>!</p>
 
+
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zorbzers&show_icons=true&locale=en&layout=compact" alt="zorbzers" /></p> -->
+
 <p align='left'>
   
   <a href="https://www.linkedin.com/in/lea-button/">
@@ -9,3 +12,5 @@
   </a>&nbsp;&nbsp;
   
 </p>
+
+
