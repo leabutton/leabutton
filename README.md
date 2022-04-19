@@ -1,4 +1,4 @@
-<h2> Hi there, I'm Lea Button! <img src="https://im5.ezgif.com/tmp/ezgif-5-73b830f87f.gif" height="30"></h2>
+<h2> Hi there, I'm Lea Button! </h2>
 
 <img align="left" src="gif.gif" width="270">
 <h4>I'm a 1st year Computer Science student at the <a href="https://www.sheffield.ac.uk">University of Sheffield</a>!</h4>
@@ -18,6 +18,8 @@
     <img src="https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Linkedin2_svg-1024.png" width="30" />
   </a>&nbsp;&nbsp;
 </p>
+
+<img src="https://im5.ezgif.com/tmp/ezgif-5-73b830f87f.gif" height="30">
 -->
 
 
