@@ -1,7 +1,7 @@
 <h2> Hi there, I'm Lea Button! </h2>
 
 <img align="left" src="gif.gif" width="270">
-<h4>I'm a 1st year Computer Science student at the <a href="https://www.sheffield.ac.uk">University of Sheffield</a>!</h4>
+<h4>I'm a 2st year Computer Science student at the <a href="https://www.sheffield.ac.uk">University of Sheffield</a>!</h4>
 
 <p>&nbsp - I am currenty learning Java and I am confident in Python</p>
 <p>&nbsp - I'm particularly interested in Cyber Security and Cryptography</p>
