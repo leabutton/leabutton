@@ -3,8 +3,8 @@
 <img align="left" src="gif.gif" width="270">
 <h4>I'm a 2st year Computer Science student at the <a href="https://www.sheffield.ac.uk">University of Sheffield</a>!</h4>
 
-<p>&nbsp - I am currenty learning Java and I am confident in Python</p>
-<p>&nbsp - I'm particularly interested in Cyber Security and Cryptography</p>
+<p>&nbsp - I am confident in both Java and Python</p>
+<p>&nbsp - I'm interested in Cyber Security, particularly AppSec</p>
 <p>&nbsp - I also enjoy competing in CTFs </p>
 <p>&nbsp - Fun fact! I made that gif of me </p>
 <p>&nbsp 🏆 National Cyber Awards, Cyber student of the Year 2021 finalist </p>
