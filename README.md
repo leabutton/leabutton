@@ -1,7 +1,7 @@
 <h2> Hi there, I'm Lea Button! </h2>
 
 <img align="left" src="gif.gif" width="270">
-<h4>I'm a Cyber Security and Artificial Intelligence Masters student at the <a href="https://www.sheffield.ac.uk">University of Sheffield</a>! I also completed my undergraduate degree in Computer Science (BSc) at UoS, achieving a 1st Class result.</h4>
+<h4>I'm a Cyber Security and Artificial Intelligence Masters (MSc) student at the <a href="https://www.sheffield.ac.uk">University of Sheffield</a>! I also completed my undergraduate degree in Computer Science (BSc) at UoS, achieving a 1st Class result.</h4>
 
 <!--
 <p>&nbsp - I am confident in both Java and Python</p>
