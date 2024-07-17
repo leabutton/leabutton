@@ -9,5 +9,5 @@
 <p>&nbsp - I also enjoy competing in CTFs </p>
 <p>&nbsp - Fun fact! I made that gif of me </p>
 -->
-<p>&nbsp 🏆 National Cyber Awards, Cyber student of the Year 2021 finalist </p>
-<p>&nbsp 🏆 FDM EveryWoman, One to Watch 2022 Winner </p>
+<p>&nbsp 🥈 National Cyber Awards, Cyber student of the Year 2021 finalist </p>
+<p>&nbsp 🥇 FDM EveryWoman, One to Watch 2022 Winner </p>
