@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>.·:*¨༺✧ *:･ﾟ✧* :･ﾟ✧&#9;  Hey, I'm Lea! &#9; ✧･ﾟ: *✧･ﾟ:* ✧༻¨*:·. </h2>
+  <h2>.·:*¨༺✧ *:･ﾟ✧* :･ﾟ✧&#9;  Hello, World! I'm Lea &#9; ✧･ﾟ: *✧･ﾟ:* ✧༻¨*:·. </h2>
 </div>
 
 <img align="left" src="unnamed.png" width="270">
