@@ -8,7 +8,7 @@
 <img align="left" src="unnamed.png" width="300" style="margin-bottom: 50px;">
 <h4>I'm a Cyber Security and Artificial Intelligence Masters (MSc) student at the <a href="https://www.sheffield.ac.uk">University of Sheffield</a>! I also completed my undergraduate degree in Computer Science (BSc) at UoS, achieving a 1st Class result.</h4>
 
-:computer: I worked most recently @ Microsoft in the summer of 2024.
+:computer: I worked most recently @ <a href="https://www.microsoft.com/">Microsoft</a> in the summer of 2024, and prior to this have worked at <a href="https://www.thalesgroup.com/">Thales</a> and <a href="https://www.immersivelabs.com/">Immersive Labs</a>.
 
 :mag: I'm currently looking around for grad roles and other opportunities to take up at the end of 2025.
 
@@ -30,10 +30,15 @@
 
 <hr>
 
+### Badges/Certifications
+
 <!--START_SECTION:badges-->
 [![GitHub Foundations](https://images.credly.com/size/110x110/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png)](http://www.credly.com/badges/04e7536c-5f90-4941-86ed-52532788f4c2 "GitHub Foundations")
 <!--END_SECTION:badges-->
 
+<!--
 <hr>
 
 ### A Bit More About Me
+<img align="right" src="octocat-1723540643465.png" width="150" style="margin-bottom: 50px; transform: scaleY(-1);">
+-->
