@@ -34,7 +34,8 @@
 
 <!--START_SECTION:badges-->
 [![GitHub Foundations](https://images.credly.com/size/110x110/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png)](http://www.credly.com/badges/04e7536c-5f90-4941-86ed-52532788f4c2 "GitHub Foundations")
-<img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" width="110" alt="Microsoft Certified: Security, Compliance, and Identity Fundamentals">
+<a href="https://learn.microsoft.com/api/credentials/share/en-gb/LeaButton-8035/80EFCCF4B6CBC23B?sharingId=646B28E6E55320E5"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" width="110" alt="Microsoft Certified: Security, Compliance, and Identity Fundamentals"></a>
+
 <!--END_SECTION:badges-->
 
 
