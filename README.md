@@ -10,8 +10,6 @@
 
 :computer: I worked most recently @ <a href="https://www.microsoft.com/">Microsoft</a> in the summer of 2024, and prior to this have worked at <a href="https://www.thalesgroup.com/">Thales</a> and <a href="https://www.immersivelabs.com/">Immersive Labs</a>.
 
-:mag: I'm currently looking around for grad roles and other opportunities to take up at the end of 2025.
-
 :high_brightness: Outside of all of this I'm super into climbing (bouldering, although I'm pretty average at it) and dance music.
 
 <hr>
