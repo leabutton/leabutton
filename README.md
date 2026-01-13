@@ -5,10 +5,10 @@
 <!-- .·:*¨༺✧ *:･ﾟ✧* :･ﾟ✧&#9; 
 &#9; ✧･ﾟ: *✧･ﾟ:* ✧༻¨*:·. -->
 
-<img align="left" src="unnamed.png" width="300" style="margin-bottom: 50px;">
-<h4>I'm a Cyber Security and Artificial Intelligence Masters (MSc) student at the <a href="https://www.sheffield.ac.uk">University of Sheffield</a>! I also completed my undergraduate degree in Computer Science (BSc) at UoS, achieving a 1st Class result.</h4>
+<!-- <img align="left" src="unnamed.png" width="300" style="margin-bottom: 50px;"> -->
+<h4>I'm a graduate AWS Cloud Consultant at <a href="https://github.com/Storm-Reply-UK">Storm Reply</a>! I completed my postgraduate studies in September 2025 with a MSc in Cyber Secruity and Artificial Intelligence following a BSc in Computer Science.</h4>
 
-:computer: I worked most recently @ <a href="https://www.microsoft.com/">Microsoft</a> in the summer of 2024, and prior to this have worked at <a href="https://www.thalesgroup.com/">Thales</a> and <a href="https://www.immersivelabs.com/">Immersive Labs</a>.
+:computer: During my studies I worked previously at @ <a href="https://www.microsoft.com/">Microsoft</a> in the summer of 2024, and prior to this have worked at <a href="https://www.thalesgroup.com/">Thales</a> and <a href="https://www.immersivelabs.com/">Immersive Labs</a>.
 
 :high_brightness: Outside of all of this I'm super into climbing (bouldering, although I'm pretty average at it) and dance music.
 
@@ -35,6 +35,7 @@
 <!--START_SECTION:badges-->
 [![GitHub Foundations](https://images.credly.com/size/110x110/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png)](http://www.credly.com/badges/04e7536c-5f90-4941-86ed-52532788f4c2 "GitHub Foundations")
 <a href="https://learn.microsoft.com/api/credentials/share/en-gb/LeaButton-8035/80EFCCF4B6CBC23B?sharingId=646B28E6E55320E5"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" width="110" alt="Microsoft Certified: Security, Compliance, and Identity Fundamentals"></a>
+[![AWS Certified AI Practitioner](https://images.credly.com/size/110x110/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png)](https://www.credly.com/badges/eaed5c41-a943-4483-8d77-adc94ac0b46b "AWS Certified AI Practitioner")
 
 <!--END_SECTION:badges-->
 
