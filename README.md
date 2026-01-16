@@ -36,6 +36,7 @@
 [![GitHub Foundations](https://images.credly.com/size/110x110/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png)](http://www.credly.com/badges/04e7536c-5f90-4941-86ed-52532788f4c2 "GitHub Foundations")
 <a href="https://learn.microsoft.com/api/credentials/share/en-gb/LeaButton-8035/80EFCCF4B6CBC23B?sharingId=646B28E6E55320E5"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" width="110" alt="Microsoft Certified: Security, Compliance, and Identity Fundamentals"></a>
 [![AWS Certified AI Practitioner](https://images.credly.com/size/110x110/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png)](https://www.credly.com/badges/eaed5c41-a943-4483-8d77-adc94ac0b46b "AWS Certified AI Practitioner")
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/c478afdb-377f-4af1-a786-a832df4ffd08 "AWS Certified Cloud Practitioner")
 
 <!--END_SECTION:badges-->
 
