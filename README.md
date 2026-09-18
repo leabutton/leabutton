@@ -6,7 +6,7 @@
 &#9; ✧･ﾟ: *✧･ﾟ:* ✧༻¨*:·. -->
 
 <!-- <img align="left" src="unnamed.png" width="300" style="margin-bottom: 50px;"> -->
-<h4>I'm a graduate AWS Cloud Consultant at <a href="https://github.com/Storm-Reply-UK">Storm Reply</a>! I completed my postgraduate studies in September 2025 with a MSc in Cyber Secruity and Artificial Intelligence following a BSc in Computer Science.</h4>
+<h4>I'm an AWS Cloud Engineer at <a href="https://github.com/Storm-Reply-UK">Storm Reply</a>! I completed my postgraduate studies in September 2025 with a MSc in Cyber Secruity and Artificial Intelligence following a BSc in Computer Science.</h4>
 
 :computer: During my studies I worked previously at @ <a href="https://www.microsoft.com/">Microsoft</a> in the summer of 2024, and prior to this have worked at <a href="https://www.thalesgroup.com/">Thales</a> and <a href="https://www.immersivelabs.com/">Immersive Labs</a>.
 
